@@ -1,7 +1,0 @@
-
-1. I learned C++ and Visual Basic in high school, but now I am much more comfortable with Python.
-I spent about two years using MATLAB, which is quite similar to Python.
-
-2. I took the USPAS Accelerator Physics course in 2012 and I have been working with accelerators in my research since then.
-
-3. Looking forward hearing what topics people want to hear more about. The control theory, microcontrollers, and pandas segments are new this year.
